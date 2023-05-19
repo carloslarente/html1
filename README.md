@@ -1,8 +1,8 @@
-# projeto desenvolvido por carloslarente
-
-    [PROJETO](https://carloslarente.github.io/html1)
+# projeto desenvolvido por carloslarentE
     
 primeiro projeto usanso *HTML* 🎊
+
+ [PROJETO](https://carloslarente.github.io/html1)
 
 projeto foi criado utilizando conhecimentos da plataforma [ALURA](https://www.alura.com.br)
 e aplicativo [mimo](https://mimo.org)
