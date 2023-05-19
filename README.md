@@ -1,7 +1,6 @@
 # projeto desenvolvido por carloslarente
 
-    [PROJETO](https://carloslarente.github.io/html1/)
-    
+    [PROJETO](https://carloslarente.github.io/html1)
     
 primeiro projeto usanso *HTML* 🎊
 
