@@ -1,7 +1,6 @@
-# projeto desenvolvido por carloslarentE
+# projeto desenvolvido por carloslarente
     
 primeiro projeto usanso *HTML* 🎊
-
  [PROJETO](https://carloslarente.github.io/html1)
 
 projeto foi criado utilizando conhecimentos da plataforma [ALURA](https://www.alura.com.br)
