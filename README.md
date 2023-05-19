@@ -1,7 +1,6 @@
 # projeto desenvolvido por carloslarente
     
 primeiro projeto usanso *HTML* 🎊
- [PROJETO](https://carloslarente.github.io/html1)
 
 projeto foi criado utilizando conhecimentos da plataforma [ALURA](https://www.alura.com.br)
 e aplicativo [mimo](https://mimo.org)
@@ -12,5 +11,6 @@ discord: EusoUmior#2487
 
 [gmail](carlos.larentes@escola.pr.gov.br)    carlos.larentes@escola.pr.gov.br
 
+ [PROJETO](https://carloslarente.github.io/html1)
 
 ![](https://media.tenor.com/4sg3zc2RXgUAAAAM/jmd-japanese-cars.gif) ![](https://media.tenor.com/oeGuhk0QjN0AAAAM/drift-anim.gif)
