@@ -12,4 +12,4 @@ discord: EusoUmior#2487
 [gmail](carlos.larentes@escola.pr.gov.br) carlos.larentes@escola.pr.gov.br
 
 
-![](https://tenor.com/pt-BR/view/pixel-art-delorean-gif-10814549)
+![](https://media.tenor.com/4sg3zc2RXgUAAAAM/jmd-japanese-cars.gif) ![](https://media.tenor.com/oeGuhk0QjN0AAAAM/drift-anim.gif)
